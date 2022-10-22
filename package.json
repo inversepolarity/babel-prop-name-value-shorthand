@@ -1,16 +1,16 @@
 {
     "name": "babel-prop-name-value-shorthand",
-    "version": "1.0.2",
-    "description": "babel plgun for JSX prop name/value shorthand",
+    "version": "1.0.3",
+    "description": "babel plugin for JSX prop name/value shorthand",
     "main": "index.js",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
     "keywords": [
-        "babel",
+        "babel-plugin",
         "jsx",
         "react",
-        "shorthand"
+        "babel"
     ],
     "author": "suraj@evenzero.in",
     "homepage": "https://github.com/surajsharma/babel-prop-name-value-shorthand",
