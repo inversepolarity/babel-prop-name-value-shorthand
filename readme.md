@@ -28,7 +28,6 @@ You can simply write:
 ```
 //config.json
 {
-    "presets": ["next/babel"],
     "plugins": ["babel-prop-name-value-shorthand"]
 }
 ```
