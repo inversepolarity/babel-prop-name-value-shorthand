@@ -7,15 +7,18 @@ Rationale: Passing props with the same named variable is a rather common, obviou
 
 Thus, Instead of:
 
-
 ```
+
  <Auth session={session} reloadSession={session} />
+
 ```
 
 You can simply write:
 
 ```
+
  <Auth session reloadSession />
+
 ```
 
 # Installation
@@ -26,12 +29,11 @@ You can simply write:
 ## NextJS/Create React App
 
 ```
-//config.json
+//.babelrc
 {
     "plugins": ["babel-prop-name-value-shorthand"]
 }
 ```
-
 
 
 # Known Issues
