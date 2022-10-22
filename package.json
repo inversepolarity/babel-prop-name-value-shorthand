@@ -1,6 +1,6 @@
 {
     "name": "babel-prop-name-value-shorthand",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "babel plgun for JSX prop name/value shorthand",
     "main": "index.js",
     "scripts": {
@@ -13,5 +13,6 @@
         "shorthand"
     ],
     "author": "suraj@evenzero.in",
+    "homepage": "https://github.com/surajsharma/babel-prop-name-value-shorthand",
     "license": "ISC"
 }
