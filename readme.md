@@ -9,7 +9,7 @@ Thus, Instead of:
 
 ```
 
- <Auth session={session} reloadSession={session} />
+ <Auth session={session} reloadSession={reloadSession} />
 
 ```
 
