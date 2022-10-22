@@ -1,0 +1,17 @@
+{
+    "name": "babel-prop-name-value-shorthand",
+    "version": "1.0.1",
+    "description": "babel plgun for JSX prop name/value shorthand",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "babel",
+        "jsx",
+        "react",
+        "shorthand"
+    ],
+    "author": "suraj@evenzero.in",
+    "license": "ISC"
+}
