@@ -1,8 +1,6 @@
 # Introduction
 
-This is a babel plugin for more convenient JSX syntax when passing props to components.
-
-Rationale: Passing props with the same named variable is a rather common, obvious redundancy JSX could do without
+Passing props with the same named variable is a rather common, obvious redundancy JSX could do without
 
 Thus, Instead of:
 
@@ -24,7 +22,7 @@ You can simply write:
 
 `npm i babel-prop-name-value-shorthand --save-dev`
 
-## NextJS/Create React App
+### NextJS/Create React App
 
 ```
 //.babelrc
@@ -33,8 +31,10 @@ You can simply write:
 }
 ```
 
+### Example usage
+
 -   [NextJS Codesandbox](https://codesandbox.io/s/babel-prop-name-value-shorthand-6z0g6z?file=/pages/index.js)
 
-# Known Issues
+### Known Issues
 
 -   ts(2322)
