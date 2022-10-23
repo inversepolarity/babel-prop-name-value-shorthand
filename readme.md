@@ -18,23 +18,25 @@ You can simply write:
 
 ```
 
-# Installation
+# Usage
+
+### Installation
 
 `npm i babel-prop-name-value-shorthand --save-dev`
 
-### NextJS/Create React App
+### .babelrc
 
 ```
-//.babelrc
 {
     "plugins": ["module:babel-prop-name-value-shorthand"]
 }
 ```
 
-### Example usage
+### Example
 
 -   [NextJS Codesandbox](https://codesandbox.io/s/babel-prop-name-value-shorthand-6z0g6z?file=/pages/index.js)
 
-### Known Issues
+
+## Known Issues
 
 -   ts(2322)

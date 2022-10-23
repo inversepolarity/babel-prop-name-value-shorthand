@@ -1,6 +1,6 @@
 {
     "name": "babel-prop-name-value-shorthand",
-    "version": "1.0.10",
+    "version": "1.0.11",
     "description": "babel plugin for JSX prop name/value shorthand",
     "main": "index.js",
     "scripts": {
