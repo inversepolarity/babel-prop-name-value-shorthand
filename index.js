@@ -1,9 +1,5 @@
 module.exports=function (babel) {
     const { types: t } = babel;
-
-    //TODO: not working on _app.jsx in next
-    //TODO: need to make it play with typescript
-
     return {
       name: "babel-plugin-prop-value-shorthand", 
       visitor: {

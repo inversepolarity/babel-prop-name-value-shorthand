@@ -34,7 +34,7 @@ You can simply write:
 
 ### Example
 
--   [NextJS Codesandbox](https://codesandbox.io/s/babel-prop-name-value-shorthand-6z0g6z?file=/pages/index.js)
+-   [Codesandbox](https://codesandbox.io/s/babel-prop-name-value-shorthand-6z0g6z?file=/pages/index.js)
 
 
 ## Known Issues
